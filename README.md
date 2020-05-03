@@ -37,4 +37,5 @@ List of permissions that are identifiable:
 
 
 Sample output on running the script on the EditThisCookie extension:
-<img src="https://github.com/denzelchung/CS5331-Web-Security/blob/master/extensions_permission_detector/sample-output.png?raw=true" width="300">
+
+<img src="https://github.com/denzelchung/CS5331-Web-Security/blob/master/extensions_permission_detector/sample-output.png?raw=true" width="600">
