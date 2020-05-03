@@ -15,6 +15,7 @@ To use: `./detector.py EXTENSION_FOLDER`
 
 List of permissions that are identifiable:
 | alarms                      | bookmarks                    | browsingData       |
+|-----------------------------|------------------------------|--------------------|
 | certificateProvider         | contentSettings              | contextMenus       |
 | cookies                     | debugger                     | declarativeContent |
 | desktopCapture              | documentScan                 | downloads          |
@@ -32,5 +33,3 @@ List of permissions that are identifiable:
 | webNavigation               | webRequest                   | gcm                |
 | accessibilityFeatures.read  | accessibilityFeatures.modify | clipboardRead      |
 | clipboardWrite              | 
-
-
