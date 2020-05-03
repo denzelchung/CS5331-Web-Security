@@ -14,8 +14,9 @@ _detector.py_ uses keyword matching to identify permissions that an extension re
 To use: `./detector.py EXTENSION_FOLDER`
 
 List of permissions that are identifiable:
-| alarms                      | bookmarks                    | browsingData       |
+|                             |                              |                    |
 |-----------------------------|------------------------------|--------------------|
+| alarms                      | bookmarks                    | browsingData       |
 | certificateProvider         | contentSettings              | contextMenus       |
 | cookies                     | debugger                     | declarativeContent |
 | desktopCapture              | documentScan                 | downloads          |
@@ -33,3 +34,7 @@ List of permissions that are identifiable:
 | webNavigation               | webRequest                   | gcm                |
 | accessibilityFeatures.read  | accessibilityFeatures.modify | clipboardRead      |
 | clipboardWrite              | 
+
+
+Sample output on running the script on the EditThisCookie extension:
+![sample output](https://github.com/denzelchung/CS5331-Web-Security/blob/master/extensions_permission_detector/sample-output.png?raw=true "Sample output")
